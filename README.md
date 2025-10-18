@@ -9,12 +9,11 @@
 - 📅 Coding Since: 2023
 
 ## Featured Projects
-<!-- You have 2 public repos that we could populate here if you'd like -->
-- 🎲 Wackmond — Personal GitHub Profile — github.com/Wackmond/Wackmond
-- 🛠️ Looking forward to adding more projects soon!
+- 🎲 Wackmond — Personal GitHub Profile — [github.com/Wackmond/Wackmond](https://github.com/Wackmond/Wackmond)
+- 📚 Library Management System — C++ OOP project for managing books and audiobooks — [github.com/Wackmond/library-management-system](https://github.com/Wackmond/library-management-system)
 
 ## Tech & Interests
-- 🧰 Languages: Currently learning through my CS program
+- 🧰 Languages: C++, Learning more through CS program
 - 🔭 Focus: Computer Science fundamentals, Software Development
 - ❤️ Interests: Technology, Programming, Learning new skills
 
